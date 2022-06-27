@@ -1,2 +1,2 @@
 # DB-Lab
-Practice Questions for DBMS in MSSQL
+Practice Questions for DBMS in TSQL
